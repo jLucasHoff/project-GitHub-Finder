@@ -6,3 +6,4 @@ npm create vite@latest
 cd project
 
 npm i react-router-dom react-icons
+npm run dev
