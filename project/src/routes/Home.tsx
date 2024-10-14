@@ -11,7 +11,7 @@ const Home = () => {
     }
 
     return <div>
-        <Search />
+        <Search loadUser={loadUser} />
     </div>
 }
 
