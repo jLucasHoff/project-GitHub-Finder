@@ -7,7 +7,9 @@ const Search = () => {
             <p>Conheça seus melhores repositórios</p>
             <div>
                 <input type="text" placeholder="Digite o nome do seu usuário" />
-                <button></button>
+                <button>
+                    <BsSearch />
+                </button>
             </div>
         </div>
     )
